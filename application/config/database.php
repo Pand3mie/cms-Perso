@@ -50,7 +50,11 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
+<<<<<<< HEAD
 $db['default']['password'] = 'mana';
+=======
+$db['default']['password'] = '';
+>>>>>>> f844bcd0417579275ba32a7f4b1e26ff9495e4de
 $db['default']['database'] = 'cms';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';

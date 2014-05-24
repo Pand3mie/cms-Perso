@@ -39,7 +39,11 @@
                     
                     <p><a href="#">I forgot my password</a></p>
                     
+<<<<<<< HEAD
                     <?php echo url('Enregistrer un nouveau membre','register'); ?>
+=======
+                    <a href="register.html" class="text-center">Register a new membership</a>
+>>>>>>> f844bcd0417579275ba32a7f4b1e26ff9495e4de
                 </div>
             <?php echo form_close(); ?>
         </div>
